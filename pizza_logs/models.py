@@ -8,7 +8,7 @@ class Pizza(models.Model):
 
     class Meta:
         verbose_name = 'Пицца'
-        verbose_name_plural = 'Пицца'
+        verbose_name_plural = 'Пиццы'
 
     def __str__(self):
         """Возвращает строковое представление модели."""
