@@ -139,7 +139,7 @@ ref/models/fields. Возможно, вся эта информация вам �
 миграцию проекта (migrate).
 
 ```bash
-python manage.py makemigrations sk_numerals_logs
+python manage.py makemigrations pizza_logs
 ```
 ```bash
 python manage.py migrate
